@@ -127,7 +127,7 @@
 </script>
 
 <div id="header">
-    <img alt="person biking emoji" id="bike-favicon" src="/favicon.svg" height="30"/>
+    <img alt="person biking emoji" id="bike-favicon" src="favicon.svg" height="30"/>
     <h1>Bikewatching</h1>
 </div>
 
